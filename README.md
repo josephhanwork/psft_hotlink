@@ -1,0 +1,2 @@
+# psft_hotlink
+Hotlink
